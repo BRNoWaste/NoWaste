@@ -3,7 +3,7 @@
 
 ### Hi all, I'm [Matthias!] This is my New GitHub ###
 - ❌ I looking for People to train with me Languages
-- 🏮 Ask me about something [here](https://github.com/Wasted-Time/Wasted-Time/issues)
+- 🏮 Ask me about something [here](https://github.com/BRNoWaste/NoWaste/issues)
 - 😍 I am searching for some People to collaborate with me to leran more about  Scipt / and other Languages
 
 #  Stay positiv be Strong.
@@ -28,16 +28,16 @@
 <br>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Wasted-Time&show_icons=true&title_color=FF7256&icon_color=00d200&theme=synthwave" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=BRNoWaste&show_icons=true&title_color=FF7256&icon_color=00d200&theme=synthwave" />
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wasted-Time&langs_count=12&show_icons=true&title_color=FF7256&icon_color=00d200&theme=synthwave" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BRNoWaste&langs_count=12&show_icons=true&title_color=FF7256&icon_color=00d200&theme=synthwave" />
 </a>
 
 
 <a href="https://wakatime.com/@WastedTime">
-  <img align="center"  src="https://github-readme-stats.vercel.app/api/wakatime?username=WastedTime&show_icons=true&title_color=FF7256&icon_color=00d200&theme=synthwave">
+  <img align="center"  src="https://github-readme-stats.vercel.app/api/wakatime?username=BRNoWaste&show_icons=true&title_color=FF7256&icon_color=00d200&theme=synthwave">
 </a>  
     <sub><p align="center">⚡️ by <a target="_blank" href="https://git.io/readme-stats">git.io/readme-stats</a></p></sub>
     
